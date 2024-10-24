@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-hello!pzh 2222222222
-hello!pzh 3333333333
-=======
 hello!pzh 22222
 hello!pzh 33333
->>>>>>> hot-fix
 hello!pzh1
 hello!pzh2
 hello!pzh3
